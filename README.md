@@ -106,3 +106,6 @@ flutter build apk --release
 # For iOS
 flutter build ios --release
 ```
+## 📦 Screenshot
+
+![Settings Window](https://github.com/bernatangg/LaundryApp/blob/main/assets/images/laundry_1.png)
