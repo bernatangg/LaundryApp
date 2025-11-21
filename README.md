@@ -4,14 +4,14 @@
 Built using flutter, it combines clean architecture, responsive design, and reusable UI components to deliver a smooth user experience.
 
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Flutter SDK (^3.29.2)
 - Dart SDK
 - Android Studio / VS Code with Flutter extensions
 - Android SDK / Xcode (for iOS development)
 
-## 🛠️ Installation
+## Installation
 
 
 1. Install dependencies:
@@ -24,7 +24,7 @@ flutter pub get
 flutter run
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 flutter_app/
@@ -44,7 +44,7 @@ flutter_app/
 └── README.md           # Project documentation
 ```
 
-## 🧩 Adding Routes
+## Adding Routes
 
 To add new routes to the application, update the `lib/routes/app_routes.dart` file:
 
@@ -64,7 +64,7 @@ class AppRoutes {
 }
 ```
 
-## 🎨 Theming
+## Theming
 
 This project includes a comprehensive theming system with both light and dark themes:
 
@@ -83,7 +83,7 @@ The theme configuration includes:
 - Input decoration themes
 - Card and dialog themes
 
-## 📱 Responsive Design
+## Responsive Design
 
 The app is built with responsive design using the Sizer package:
 
@@ -95,7 +95,7 @@ Container(
   child: Text('Responsive Container'),
 )
 ```
-## 📦 Deployment
+## Deployment
 
 Build the application for production:
 
@@ -109,3 +109,5 @@ flutter build ios --release
 ## 📦 Screenshot
 
 ![Settings Window](https://github.com/bernatangg/LaundryApp/blob/main/assets/images/laundry_1.png)
+![Settings Window](https://github.com/bernatangg/LaundryApp/blob/main/assets/images/laundry_2.png)
+![Settings Window](https://github.com/bernatangg/LaundryApp/blob/main/assets/images/laundry_3.png)
