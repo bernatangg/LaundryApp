@@ -1,7 +1,7 @@
 # Flutter
 
-**LaundryFlow** is a modern Flutter application that helps users schedule laundry pickups, track orders, and manage laundry services — all in one app.  
-Built using a **DhiWise Flutter template**, it combines clean architecture, responsive design, and reusable UI components to deliver a smooth user experience.
+**LaundryApp** is a modern Flutter application that helps users schedule laundry pickups, track orders, and manage laundry services — all in one app.  
+Built using flutter, it combines clean architecture, responsive design, and reusable UI components to deliver a smooth user experience.
 
 
 ## 📋 Prerequisites
@@ -106,10 +106,3 @@ flutter build apk --release
 # For iOS
 flutter build ios --release
 ```
-
-## 🙏 Acknowledgments
-- Built with [Rocket.new](https://rocket.new)
-- Powered by [Flutter](https://flutter.dev) & [Dart](https://dart.dev)
-- Styled with Material Design
-
-Built with ❤️ on Rocket.new
